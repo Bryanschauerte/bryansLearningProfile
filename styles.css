@@ -20,6 +20,7 @@ html {
   background-color: #01579b ;
 }
 
+
 .navBarContainer {
 
   display: flex;
@@ -29,6 +30,11 @@ html {
   height: 10%;
   justify-content: space-around;
   font-size: 24px;
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+  padding:10px;
+
+
+
 
 }
 .header {
@@ -40,9 +46,17 @@ html {
 
 }
 .intro {
-  font-family: cursive;
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
   font-size: 26px;
   padding: 10px;
+  justify-content: center;
+  display: flex;
 
+
+}
+
+
+.mainHome {
+  display: flex;
 
 }
